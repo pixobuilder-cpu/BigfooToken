@@ -1,2 +1,2 @@
-# BigfooToken
+# BigfootToken
 BigfootToken.sol
